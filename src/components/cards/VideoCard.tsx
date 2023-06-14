@@ -64,12 +64,13 @@ export default function VideoCard({ post }: postTypes) {
             <p className="font-light text-sm">{post.character?.metadata?.content?.name}</p>
           </Link>
           <p className="font-light text-sm">
-            {/*duration.humanize().replace("a ", "")*/}Day ago
+            {/*duration.humanize().replace("a ", "")*/}
           </p>
         </div>
       </div>
       </div>
       </div>
     </div>
+
   );
 }
