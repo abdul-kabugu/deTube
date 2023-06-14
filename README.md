@@ -11,10 +11,10 @@ and fans to all benefit from the communities they build
 through shared experience and
 profit. Everybody wins.
 # Tech Stacks
- 1.[CROSSBELL for social graph](https://crossbell.io/)
- 2.Nexjs for front-end 
-3.tailwind css for styling
- 4.[LIVEPEER for decoding videos](https://livepeer.org/)
+ 1. [CROSSBELL for social graph](https://crossbell.io/)
+ 2. Nexjs for front-end 
+3. tailwind css for styling
+ 4. [LIVEPEER for decoding videos](https://livepeer.org/)
 # Features
 1. Decentralized video sharing
 2. Ownership of content and social graph
